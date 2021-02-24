@@ -34,3 +34,12 @@ The project repository is organized as follows:
 ![alt text](https://github.com/Tomawk/fastpizza/blob/main/immagini/carrello_ss.png?raw=true)
 # User page
 ![alt text](https://github.com/Tomawk/fastpizza/blob/main/immagini/user_ss.png?raw=true)
+
+## Other Information
+
+The demo of website is hosted here ->
+
+The login is disable but you can still log in using the following user:
+
+* *Username*: User1 *Password*: 123
+* *Username*: User2 *Password*: 123
