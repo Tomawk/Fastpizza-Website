@@ -27,5 +27,6 @@ The project repository is organized as follows:
 ## Screenshots
 
 ![alt text](https://github.com/Tomawk/fastpizza/blob/main/immagini/home_ss.png?raw=true)
+![alt text](https://github.com/Tomawk/fastpizza/blob/main/immagini/creation_ss.png?raw=true)
 ![alt text](https://github.com/Tomawk/fastpizza/blob/main/immagini/carrello_ss.png?raw=true)
 ![alt text](https://github.com/Tomawk/fastpizza/blob/main/immagini/user_ss.png?raw=true)
