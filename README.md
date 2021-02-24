@@ -4,7 +4,7 @@
  
  ## Application
  
- Fastpizza is a website of pizzeria, the customer can:
+ Fastpizza is a website of a pizzeria, a customer can:
  
  * Make a reservation at the physical restaurant
  * Order a pizza online, creating its own pizza with the ingredients that wishes
