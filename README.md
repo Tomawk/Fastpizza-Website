@@ -39,7 +39,7 @@ The project repository is organized as follows:
 
 The demo of website is hosted here ->
 
-The login is disable but you can still log in using the following user:
+The login is disabled but you can still log in using the following user:
 
 * *Username*: User1 *Password*: 123
 * *Username*: User2 *Password*: 123
