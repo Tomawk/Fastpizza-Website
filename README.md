@@ -37,9 +37,9 @@ The project repository is organized as follows:
 
 ## Other Information
 
-The demo of website is hosted here ->
+The demo of website is hosted here -> http://fastpizza1.altervista.org/
 
-The login is disabled but you can still log in using the following user:
+Everything is enable but if you dont want to register a new account, you can use the following users:
 
-* *Username*: User1 *Password*: 123
-* *Username*: User2 *Password*: 123
+* *Username*: User1 *Password*: Abcde12345
+* *Username*: User2 *Password*: Abcde12345
