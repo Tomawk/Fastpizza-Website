@@ -1,4 +1,4 @@
-# fastpizza
+# Fastpizza Website
 
  Fastpizza is a website developed using HTML, CSS, Javascript and PHP. It was a project made for the exam of web developing during my Bachelor Degree. 
  
