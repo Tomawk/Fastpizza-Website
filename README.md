@@ -39,7 +39,7 @@ The project repository is organized as follows:
 
 The demo of website is hosted here -> http://fastpizza1.altervista.org/
 
-Everything is enable but if you dont want to register a new account, you can use the following users:
+Everything is enabled but if you dont want to register a new account, you can use the following users:
 
-* *Username*: User1 *Password*: Abcde12345
-* *Username*: User2 *Password*: Abcde12345
+* *Username*: User1 *Password*: Abcdef123
+* *Username*: User2 *Password*: Abcdef123
